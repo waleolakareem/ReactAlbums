@@ -13,5 +13,4 @@ const App = () => (
 );
 
 // Render it to the device
-console.ignoredYellowBox = ['Remote debugger'];
 AppRegistry.registerComponent('albums', () => App);
