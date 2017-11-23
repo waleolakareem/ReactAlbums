@@ -14,10 +14,10 @@ const styles = {
     borderBottomWidth: 1,
     padding: 5,
     backgroundColor: '#fff',
-    justifContent: 'flex-start',
+    justifyContent: 'flex-start',
     flexDirection: 'row',
     borderColor: '#ddd',
-    postion: 'relative'
+    position: 'relative'
   }
 };
 
